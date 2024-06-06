@@ -1,0 +1,499 @@
+header{
+    width: 1516px;
+height: 100px;
+gap: 0px;
+opacity: 0px;
+background: #F3D7B7;
+
+}
+
+main{
+    width: 1516px;
+height: 770px;
+gap: 0px;
+opacity: 0px;
+background: #F3D7B7;
+padding: 50px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: "Roboto Mono", monospace;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.walpaper{
+    margin: 50px 0 0 -100px;
+}
+
+.header-link {
+    display: flex;
+    gap: 70px;
+    margin: 50px 0 0 -20px;
+}
+
+.header-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 25px;
+    font-weight: bolder;
+    color: black;
+    transition: all ease-in-out 0.2s;
+
+}
+
+
+
+
+.text-s{
+    margin: 150px 0 0 -85px;
+}
+
+
+
+.tx{
+    width: 512px;
+    height: 116px;
+    font-size: 40px;
+}
+
+
+
+.box{
+    padding: 0 0 0 20px;
+font-size: 20px;
+    color: #000000;
+    background-color: white;
+    width: 398px;
+height: 46px;
+border-radius: 9999px;
+margin: 100px 0 0 150px;
+
+}
+
+.one-btn{
+    width:  193px;
+    height: 51px;
+    top: 492px;
+    left: 50px;
+    padding: 16px 24px 16px 24px;
+    gap: 10px;
+border-radius: 50px;
+    opacity: 0px;
+    background: #0A775F;
+color: white;
+    margin: 55px 0 0 60px;
+    transition: 1.5s;
+}
+
+
+.one-btn:hover{
+    background-color: aliceblue;
+    color: #000000;
+}
+
+
+.but-first{
+    margin: -300px 0 0 750px;
+}
+
+
+
+
+.lll{
+
+    animation-name: logo-hello;
+    animation-duration: 0.1s;
+animation-delay: 0s;
+animation-iteration-count: infinite;
+position: absolute;
+margin: -750px 0 0 650px;
+}
+
+
+@keyframes logo-hello {
+    0%{
+        transform: rotate(360deg);
+    }
+
+}
+
+
+.df{
+    width: 368.11px;
+height: 59px;
+top: 908px;
+left: 556.44px;
+gap: 0px;
+opacity: 0px;
+
+    font-family: Roboto;
+font-size: 50px;
+font-weight: 700;
+line-height: 58px;
+margin: 350px 0 0 400px;
+
+}
+
+
+.img-boxx{
+    margin: 120px 0 0 -100px;
+
+}
+
+.img-boxx {
+
+    width: 350px;
+    height: 250px;
+    transition: width 1s, height 1s;
+  }
+  
+  .img-boxx:hover {
+    width: 475px;
+    height: 355px;
+  }
+
+  .cls{
+    margin: -230px 0 0 600px;
+  }
+
+.dr{
+    Width: 169.58px;
+    Height: 56px;
+    Size: 48px;
+    font-size: 35px;
+    
+}
+
+
+.drr{
+    Width: 468.41px;
+    Height: 68px;
+    size: 22px;
+    margin: 20px 0 0 0;
+}
+
+
+
+
+
+.df1{
+    width: 368.11px;
+height: 59px;
+top: 908px;
+left: 556.44px;
+gap: 0px;
+opacity: 0px;
+
+    font-family: Roboto;
+font-size: 50px;
+font-weight: 700;
+line-height: 58px;
+margin: 350px 0 0 400px;
+
+}
+
+
+.img-boxxs{
+    margin: -200px 0 0 750px;
+
+}
+
+.img-boxxs {
+
+    width: 350px;
+    height: 250px;
+    transition: width 1s, height 1s;
+  }
+  
+  .img-boxxs:hover {
+    width: 475px;
+    height: 355px;
+  }
+
+  .cls1{
+   margin: 300px 0 0 0;
+  }
+
+.dr1{
+    width: 338.13px;
+height: 56px;
+    Size: 28px;
+    font-size: 35px;
+
+    
+}
+
+
+.drr1{
+    Width: 468.41px;
+    Height: 68px;
+    size: 22px;
+    margin: 20px 0 0 0;
+}
+
+
+
+
+.df2{
+    width: 368.11px;
+height: 59px;
+top: 908px;
+left: 556.44px;
+gap: 0px;
+opacity: 0px;
+
+    font-family: Roboto;
+font-size: 50px;
+font-weight: 700;
+line-height: 58px;
+margin: 350px 0 0 400px;
+
+}
+
+
+.img-boxx2{
+    margin: 120px 0 0 -100px;
+
+}
+
+.img-boxx2 {
+
+    width: 350px;
+    height: 250px;
+    transition: width 1s, height 1s;
+  }
+  
+  .img-boxx2:hover {
+    width: 475px;
+    height: 355px;
+  }
+
+  .cls2{
+    margin: -230px 0 0 600px;
+  }
+
+.dr2{
+    Width: 169.58px;
+    Height: 56px;
+    Size: 48px;
+    font-size: 35px;
+    
+}
+
+
+.drr2{
+    Width: 468.41px;
+    Height: 68px;
+    size: 22px;
+    margin: 20px 0 0 0;
+}
+
+
+
+.df13{
+    width: 368.11px;
+height: 59px;
+top: 908px;
+left: 556.44px;
+gap: 0px;
+opacity: 0px;
+
+    font-family: Roboto;
+font-size: 50px;
+font-weight: 700;
+line-height: 58px;
+margin: 350px 0 0 400px;
+
+}
+
+
+.img-boxxs3{
+    margin: -200px 0 0 750px;
+
+}
+
+.img-boxxs3 {
+
+    width: 350px;
+    height: 250px;
+    transition: width 1s, height 1s;
+  }
+  
+  .img-boxxs3:hover {
+    width: 475px;
+    height: 355px;
+  }
+
+  .cls13{
+   margin: 300px 0 0 0;
+  }
+
+.dr13{
+    width: 338.13px;
+height: 56px;
+    Size: 28px;
+    font-size: 35px;
+
+    
+}
+
+
+.drr13{
+    Width: 468.41px;
+    Height: 68px;
+    size: 22px;
+    margin: 20px 0 0 0;
+}
+
+
+
+
+.hd{
+    width: 1515px;
+    height: 160px;
+    margin: 200px 0 0 3px ;
+background: #F3D7B7;
+
+}
+
+
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.walpapers{
+    margin: 70px 0 0 -100px;
+}
+
+.header-links{
+    display: flex;
+    gap: 70px;
+    margin: 70px 0 0 -500px;
+}
+
+.fg{
+    margin:  0 0 0 -300px;
+}
+
+.header-wrappers {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-links {
+    font-size: 25px;
+    font-weight: bolder;
+    color: black;
+    transition: all ease-in-out 0.2s;
+    width: 49px;
+    height: 19px;
+
+    
+}
+
+.wde{
+    margin: -30px 0 0 1240px;
+}
+
+.face{
+    margin: 0 0 0 25px;
+}
+
+
+
+.lll1{
+
+    animation-name: logo-hello;
+    animation-duration: 0.1s;
+animation-delay: 0s;
+animation-iteration-count: infinite;
+position: absolute;
+margin: -450px 0 0 -750px;
+}
+
+
+.drq{
+    margin: -100px 0 0 0 ;
+    font-family: Roboto;
+font-size: 48px;
+font-weight: 700;
+line-height: 56.25px;
+width: 388.25px;
+height: 56px;
+top: 880px;
+left: 744px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.drrq{
+    font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+width: 646.39px;
+height: 207.49px;
+top: 1000px;
+left: 740px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+
+
+.sed{
+    width: 1515px;
+height: 510px;
+top: 1453px;
+gap: 0px;
+opacity: 0px;
+background: #C99B67;
+margin: 400px 0 0 2px;
+}
+
+.d2{
+    margin: 150px 0 0 -100px;
+    position: absolute;
+}
+
+.nw{
+    margin: 50px 0 0 0 ;
+    color: white;
+}
+
+.d1-bx{
+    color: white;
+}
+
+
+.as{
+    position: absolute;
+    margin: -430px 0 0 860px;
+}
+
+.hd4{
+    width: 1515px;
+    height: 160px;
+
+background: #F3D7B7;
+
+}
